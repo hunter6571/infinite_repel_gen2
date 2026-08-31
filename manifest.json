@@ -1,0 +1,9 @@
+{
+  "name": "Infinte Repel",
+  "id": "infinite_repel",
+  "version": "1.0.0",
+  "author": "Hunter",
+  "description": "Wild encounters are disabled.",
+  "entry": "main.lua",
+  "dependencies": [],
+}
