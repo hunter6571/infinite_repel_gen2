@@ -21,7 +21,7 @@ A lightweight modification for LÖVE2D-based Pokémon engine frameworks that let
 
 ## Usage
 1. ​Open the Start Menu in-game.
-​2. Select REPEL (located above SAVE).
-​3. Toggle between REPEL ON and REPEL OFF.
+2. Select REPEL (located above SAVE).
+3. Toggle between REPEL ON and REPEL OFF.
 ​- REPEL ON: Wild encounters are completely disabled.
 - ​REPEL OFF: Standard wild encounter rates apply.
