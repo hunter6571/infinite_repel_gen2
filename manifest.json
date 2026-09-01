@@ -1,9 +1,9 @@
 {
-  "name": "Infinte Repel",
-  "id": "infinite_repel",
-  "version": "1.0.0",
+  "name": "QOL Toggles",
+  "id": "qol_toggles",
+  "version": "2.0.0",
   "author": "Hunter",
-  "description": "Wild encounters are disabled.",
+  "description": "QOL Toggles",
   "entry": "main.lua",
-  "dependencies": [],
+  "dependencies": []
 }
