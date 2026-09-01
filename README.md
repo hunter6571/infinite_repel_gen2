@@ -1,21 +1,25 @@
-# Infinite Repel Mod for Gen2Recomp
+# QOL Toggles
 
-A lightweight modification for LÖVE2D-based Pokémon engine frameworks that lets players toggle wild encounters on or off directly from the Start Menu.
+> A Quality of Life utility mod for LÖVE2D Pokémon engine frameworks.
 
-## Features
+**QOL Toggles** adds a centralized **QOL** submenu directly into your in-game Start Menu, allowing you to instantly toggle game-tweaking features like Infinite Repel and 2X Experience without modifying base game files.
 
-* **Start Menu Toggle**: Adds a dedicated **REPEL** option directly above the **SAVE** menu entry.
-* **Instant Encounter Suppression**: Complete control over wild encounters—no item usage or steps required.
-* **Non-Destructive**: Integrates directly into existing game hooks without overwriting core engine files.
+## ⚡ Features
 
-## Installation
-1. Go to the [Releases](https://github.com/hunter6571/infinite_repel_gen2/releases) page and download the latest `Infinite_Repel.zip` under **Assets**.
+* **Start Menu Integration**: Injects a clean **QOL** button directly above **SAVE**.
+* **Infinite Repel Toggle**: Turn wild encounters **ON** or **OFF** at any time—no Repel items required.
+* **2X EXP Toggle**: Double your experience points gained from battles instantly.
+* **Non-Destructive Hooking**: Built cleanly using engine hooks (`encounter.roll`, `exp.gain`, and `ui.start_menu.items`), keeping core game files untouched.
+
+## 📂 Installation
+
+1. Go to the [Releases](https://github.com/hunter6571/qol_toggles_gen2/releases) page and download the latest `QOL_Toggles.zip` under **Assets**.
 2. Place the `.zip` file into your **Gen2Recomp** `mods` directory.
 3. Launch **Gen2Recomp** and ensure the mod is enabled in the mod manager.
 
-## Usage
-1. ​Open the Start Menu in-game.
-2. Select REPEL (located above SAVE).
-3. Toggle between REPEL ON and REPEL OFF.
-* REPEL ON: Wild encounters are completely disabled.
-* REPEL OFF: Standard wild encounter rates apply.
+## ​🎮 How to Use
+1. ​Press START in-game to open the main menu.
+2. ​Select the QOL option (located right above SAVE).
+3. ​Toggle your preferred settings:
+- ​REPEL ON / OFF: Controls wild encounter generation.
+- ​2X EXP ON / OFF: Controls experience doubling during battle reward steps.
