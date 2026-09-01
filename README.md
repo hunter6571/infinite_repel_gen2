@@ -1,4 +1,4 @@
-# QOL Toggles
+# Gen2 QOL Toggles
 
 > A Quality of Life utility mod for LÖVE2D Pokémon engine frameworks.
 
